@@ -1,6 +1,7 @@
 # Hi, I’m Raphaël 🐱
 
 Final-year engineering student at UTC (GI — IAD). I blend data science, applied math, and AI with practical DevOps to ship real apps.
+
 I love cats, video games, and all things computers.
 
 - 🎓 UTC — GI (IAD: Data Science & AI), final semester
