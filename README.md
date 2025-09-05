@@ -21,5 +21,5 @@ I love cats, video games, and all things computers.
 - Small LLM agents and tooling
 
 ## Get in touch
-- LinkedIn: [](https://www.linkedin.com/in/raphael-chauvier)
+- LinkedIn: https://www.linkedin.com/in/raphael-chauvier
 - Email: raphael.chauvie@gmail.com
