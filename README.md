@@ -1,6 +1,6 @@
 # Hi, I’m Raphaël 🐱
 
-Final-year engineering student at UTC (Université de Technologie de Compiègne, France), Computer Engineering — Data Science & AI track. I turn data/AI ideas into running services.
+Final-year engineering student at UTC (Université de Technologie de Compiègne, France), Computer Engineering - Data Science & AI track. I turn data/AI ideas into running services.
 
 - Data/AI: statistics, applied math, data engineering, RAG/LLM orchestration
 - DevOps: Docker, Kubernetes; containerized deployments; IaC basics
