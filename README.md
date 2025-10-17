@@ -13,6 +13,6 @@ Final-year engineering student at UTC (Université de Technologie de Compiègne,
 
 ## Get in touch
 - LinkedIn: https://www.linkedin.com/in/raphael-chauvier
-- Email: raphael.chauvie@gmail.com
+- Email: raphael.chauvier@etu.utc.fr
 
 P.S. Cat person and gamer at heart.
